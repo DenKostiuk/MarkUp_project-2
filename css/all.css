@@ -691,10 +691,10 @@ strong {
 
 .img-animation {
     display: block;
-    mix-blend-mode: color-burn;
+    mix-blend-mode: normal;
     background: #000000;
     animation: 15s linear 0s normal none infinite running rot;
-    border-radius: 45%;
+    border-radius: 50%;
 }
 
 .about-button {
